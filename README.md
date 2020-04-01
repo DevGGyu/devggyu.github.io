@@ -1,4 +1,6 @@
-# Type: Minimal and Clean Free Jekyll Theme
+# DevGGyu Blog
+
+<!-- # Type: Minimal and Clean Free Jekyll Theme
 
 <img alt="Type: Minimal and Clean Free Jekyll Theme" src="https://user-images.githubusercontent.com/626005/63093493-c3daa880-bf65-11e9-860e-da88047cce24.png">
 
@@ -214,4 +216,4 @@ You can find the current favicon (favicon.ico) inside the theme root directory, 
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8G8PKPEADPD42&source=url">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
-</a>
+</a> -->

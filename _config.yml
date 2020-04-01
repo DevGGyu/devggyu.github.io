@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Type
-email:       ''
-description: ''
+title:       DevGGyu Blog
+email:       'dev.ggyu@gmail.com'
+description: 'Programming Study Blog'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://devggyu.github.io/' # The base hostname & protocol for your site
 twitter:     ''

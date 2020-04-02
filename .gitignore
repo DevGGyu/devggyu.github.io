@@ -4,4 +4,6 @@ _site
 _drafts
 .DS_Store
 .jekyll-metadata
+_pages/about.md
+_pages/style-guide.md
 CNAME
